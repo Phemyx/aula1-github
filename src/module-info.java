@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Phemyx
+ *
+ */
+module Couse {
+}
